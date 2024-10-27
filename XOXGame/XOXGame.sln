@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server Side", "XOXGame\Server Side.csproj", "{5F669391-8648-4B9D-A2C7-B8D542FC4680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client Side", "Client Side\Client Side.csproj", "{96F948AB-79AD-49CF-BF68-D2DDD0A9B07B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F669391-8648-4B9D-A2C7-B8D542FC4680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F669391-8648-4B9D-A2C7-B8D542FC4680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F669391-8648-4B9D-A2C7-B8D542FC4680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F669391-8648-4B9D-A2C7-B8D542FC4680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F948AB-79AD-49CF-BF68-D2DDD0A9B07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F948AB-79AD-49CF-BF68-D2DDD0A9B07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F948AB-79AD-49CF-BF68-D2DDD0A9B07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F948AB-79AD-49CF-BF68-D2DDD0A9B07B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D9F89F-F5AD-4EFD-9C41-B8AFE4D76A83}
+	EndGlobalSection
+EndGlobal
